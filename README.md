@@ -1,4 +1,11 @@
-### Добро пожаловать, вот моя статистика.
+### Добро пожаловать на моей странице 👋.
+
+<span style="font-size: 30px">Full stack developer (hostring and VM excluded) & system administrator at <b>ASPIRE-WORLD</b>, vue, vuex. Developing platform bots (discord, vk, telegram) and admin dashboards based on UI kits. Education at Moscow State University for the Humanities for Programmer.</span>
+
+I’m currently learning TypeScript, Vue and Kubernetes
+
+
+-----------
 
 [![stats](https://github-readme-stats.vercel.app/api?username=SaphirePI&show_icons=true&theme=synthwave&title_color=Что&count_private=true)](https://aspire.su)
 [![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SaphirePI&layout=compact&theme=shades-of-purple&count_private=true)](https://aspire.su)

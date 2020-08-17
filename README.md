@@ -4,7 +4,7 @@
 
 I’m currently learning TypeScript, Vue and Kubernetes
 
-<a href="https://discord.gg/PfczF2e"><img src="https://invidget.switchblade.xyz/PfczF2e?theme=light" /></a>
+<a href="https://discord.gg/PfczF2e"><img src="https://invidget.switchblade.xyz/Q5qAV4Y?theme=light" /></a>
 
 -----------
 

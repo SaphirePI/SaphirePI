@@ -1,10 +1,10 @@
-### Добро пожаловать на моей странице 👋.
+## Sunex Anelya
 
 <span style="font-size: 30px">Full stack developer (hostring and VM excluded) & system administrator at <b>ASPIRE-WORLD</b>, vue, vuex. Developing platform bots (discord, vk, telegram) and admin dashboards based on UI kits. Education at Moscow State University for the Humanities for Programmer.</span>
 
 I’m currently learning TypeScript, Vue and Kubernetes
 
-<a href="https://discord.gg/PfczF2e"><img src="https://invidget.switchblade.xyz/Q5qAV4Y?theme=light" /></a>
+Also, check out my favorite: [0xVISM](https://github.com/0xVISM)
 
 -----------
 

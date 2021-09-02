@@ -6,9 +6,7 @@ I’m currently learning TypeScript, Vue and Kubernetes
 
 Also, check out my favorite: [0xNUMB](https://github.com/0xNUMB)
 
------------
+----
 
-[![stats](https://github-readme-stats.vercel.app/api?username=SaphirePI&show_icons=true&theme=synthwave&title_color=Что&count_private=true)](https://aspire.su)
-[![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SaphirePI&layout=compact&theme=shades-of-purple&count_private=true)](https://aspire.su)
-[![stats](https://github-readme-stats.vercel.app/api/pin?username=SaphirePI&repo=aspire-bot&theme=shades-of-purple)](https://github.com/Nefelit/illyasviel-complete)
-[![stats](https://github-readme-stats.vercel.app/api/pin?username=Nefelit&repo=illyasviel-complete&theme=shades-of-purple&e=1)](https://github.com/Nefelit/illyasviel-complete)
+[![stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=education&username=saphirepi&branding=false&education-section-title=Образование)]()
+[![stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=saphirepi&max-items=2&logos=true&branding=false)]()

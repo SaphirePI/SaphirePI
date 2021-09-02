@@ -8,5 +8,5 @@ Also, check out my favorite: [0xNUMB](https://github.com/0xNUMB)
 
 ----
 
-[![stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=education&username=saphirepi&branding=false&education-section-title=Образование)]()
-[![stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=saphirepi&max-items=2&logos=true&branding=false)]()
+[![Education](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=education&username=saphirepi&branding=false&education-section-title=Образование)]()
+[![Projects](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=saphirepi&max-items=2&logos=true&branding=false)]()

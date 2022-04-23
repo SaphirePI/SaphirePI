@@ -8,3 +8,5 @@ Also, check out my favorite: [0xNUMB](https://github.com/0xNUMB)
 
 ----
 ![Counter](https://profile-counter.glitch.me/saphirepi/count.svg)
+
+![Codewars](https://www.codewars.com/users/SaphirePI/badges/small)
